@@ -1,4 +1,4 @@
-# EchoMind 完整使用指南
+# AI-Customer-Service 完整使用指南
 
 本文档说明 EchoMind 的部署、启动、API 调用、知识库使用、ChromaDB 数据查看、监控评测和常见排障。
 
